@@ -1,4 +1,4 @@
-import optionprice as op
+import optionpricing as op
 
 def test_op():
     """
