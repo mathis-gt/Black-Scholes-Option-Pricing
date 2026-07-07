@@ -13,6 +13,8 @@ Given the parameters:
 We begin by importing the necessary files so we can use the algorithm to find a price of the option depending on which method is chosen to append them. Through this example we will work with a 'call' option.
 
 ```python
+import math
+from scipy.stats import norm
 import optionprice as op
 
     S = 100
