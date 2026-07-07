@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 def option_price(S, K, r, T, sd, c_p):
     """
     A model for option pricing based on various inputs.
